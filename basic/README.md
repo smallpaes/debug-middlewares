@@ -1,13 +1,10 @@
 # Debugging Middleware: Basic 🔗
 A simple debugging middleware that will print out basic request info: HTTP method, url, and time-stamps.
 
-___
-
 
 ## User Stories
 User can see HTTP method, url, and time-stamps of every request in the terminal
 
-___
 
 ## Installation
 The following instructions will get you a copy of the project and all the setting needed to run it on your local machine.
