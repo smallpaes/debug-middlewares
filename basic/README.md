@@ -1,0 +1,62 @@
+# Debugging Middleware: Basic 🔗
+A simple debugging middleware that will print out basic request info: HTTP method, url, and time-stamps.
+
+___
+
+
+## User Stories
+User can see HTTP method, url, and time-stamps of every request in the terminal
+
+___
+
+## Installation
+The following instructions will get you a copy of the project and all the setting needed to run it on your local machine.
+
+
+### Prerequisites
+
+- [npm](https://www.npmjs.com/get-npm)
+- [Node.js v10.16.0](https://nodejs.org/en/download/)
+
+
+### Clone
+
+Clone this repository to your local machine
+
+```
+$ git clone https://github.com/smallpaes/debug-middlewares.git
+```
+
+
+### Setup
+
+**1. Enter the project folder**
+
+```
+$ cd debug-middlewares/basic
+```
+
+**2. Install npm packages**
+
+```
+$ npm install
+```
+
+**3. Activate the server**
+
+```
+$ npm run dev
+```
+
+**4. Find the message for successful activation**
+
+```
+> App running on port 3000
+```
+You may visit the application on browser with the URL: http://localhost:3000
+
+
+___
+
+## Authors
+[Mike Huang](https://github.com/smallpaes)
