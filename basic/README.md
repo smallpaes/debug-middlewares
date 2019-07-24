@@ -1,4 +1,4 @@
-# Debugging Middleware: Basic 🔗
+# Debugging Middleware: Basic
 A simple debugging middleware that will print out basic request info: HTTP method, url, and time-stamps.
 
 
